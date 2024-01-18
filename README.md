@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rinokyan
 - 👀 I’m interested in backend dev
 - 🌱 I’m currently learning golang/java
-- 📫 rinokyan@gmail.com
+- 📫 How to reach me -> rinokyan@gmail.com
 
 <!---
 rinokyan/rinokyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
